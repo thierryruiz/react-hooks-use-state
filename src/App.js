@@ -5,6 +5,10 @@ import ParentComponent from "./components/ParentComponent";
 export default function App() {
   return (
     <div className="App">
+      <p>
+        Demonstrates <code>useState()</code> hook
+      </p>
+
       <ParentComponent />
     </div>
   );
