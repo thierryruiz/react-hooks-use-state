@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ParentComponent {
+  display: block;
+  padding: 10px;
+  border: 1px solid red;
+}
+
+.ChildComponent {
+  display: block;
+  padding: 10px;
+  border: 1px solid green;
+}
